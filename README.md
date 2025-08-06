@@ -57,7 +57,7 @@ To run the app locally:
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/video_music_player.git
+git clone https://github.com/Krishkasodariya/Vidplay.git
 
 # Navigate to the project folder
 cd video_music_player
@@ -67,4 +67,5 @@ flutter pub get
 
 # Run the app
 flutter run
+
 
