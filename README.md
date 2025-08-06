@@ -1,4 +1,4 @@
-<h1>🎬 Video & Music Player App</h1>
+<h1>🎬 VidPlay Video & Music Player App</h1>
 
 ### 🎧 A Beautiful Flutter App for Local Media Playback
 
@@ -44,7 +44,7 @@
 | **Language**         | Dart                                                   |
 | **Framework**        | Flutter                                                |
 | **Media Playback**   | video_player, just_audio / audioplayers               |
-| **State Management** | GetX / Provider                                       |
+| **State Management** | GetX                                       |
 | **Permissions**      | Storage, Media Access                                 |
 | **UI/UX**            | Dynamic Grid/List Switch, Animations, Dark Mode       |
 | **Other Features**   | Share, Lyrics, Loop, Shuffle, Folder Scanning         |
@@ -67,3 +67,4 @@ flutter pub get
 
 # Run the app
 flutter run
+
